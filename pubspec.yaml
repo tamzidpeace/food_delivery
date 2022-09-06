@@ -58,6 +58,7 @@ flutter_native_splash:
   macos: false
   windows: false
   linux: false
+  android_gravity: fill_horizontal
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
